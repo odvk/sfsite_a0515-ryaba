@@ -1,3 +1,8 @@
+// В данном файле - первоначальное решение в лоб ----
+// Более качественное решение с упрощением и сокращением кода в файле
+// ryaba02.js
+//
+
 const dataURL = "https://api.myjson.com/bins/jcmhn";
 
 function handleButton() {
